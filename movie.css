@@ -1,0 +1,11 @@
+h1{
+    width:800px ;
+    margin:auto ;
+    font-size: 50px;
+    justify-content: center;
+    background-color: orange;
+    align-items: center;
+}
+@media screen {
+    
+}
